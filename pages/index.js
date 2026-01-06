@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Olá, Feliz natal e Feliz ano novo, 2026 será um ano incrível!</h1>
+    return <h1>Luana, eu te amo. Se você me ama, da uma risadinha!</h1>
 }
 
 export default Home;
